@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    /* padding: 0; */
+}
+
+nav {
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-decoration: none;
+}
+
